@@ -1,0 +1,1 @@
+login_write_publish_log 登录,抓取更新日志并写入文件
