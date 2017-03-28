@@ -95,8 +95,8 @@ class Login(object):
 if __name__ == '__main__':   
     userlogin = Login()
     #此处需要替换为你的登录名和密码
-    username = 'yourusername'
-    password = 'yourpassword'
+    username = 'username'
+    password = 'password'
     domain = logindomain
     userlogin.setLoginInfo(username,password,domain)
     userlogin.login()

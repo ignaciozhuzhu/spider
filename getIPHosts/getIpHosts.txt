@@ -1,0 +1,14 @@
+# github begin------------------
+192.30.253.113 github.com
+151.101.100.133 assets-cdn.github.com
+151.101.100.133 avatars0.githubusercontent.com
+151.101.100.133 avatars1.githubusercontent.com
+151.101.100.133 documentcloud.github.com
+203.98.7.65 gist.github.com
+151.101.100.133 help.github.com
+192.30.253.120 nodeload.github.com
+151.101.100.133 raw.github.com
+54.243.95.136 status.github.com
+192.30.253.166 training.github.com
+151.101.128.133 github.io
+# github end------------------
